@@ -4,10 +4,10 @@
 This project is focused on achieving the following key objectives:
 
 # Sales Report
-## 1.Customer Performance Report:
+## 1. Customer Performance Report:
 
 Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
-## 2.Market Performance and Sales Targets Comparison:
+## 2. Market Performance and Sales Targets Comparison:
 
 Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 # Finance Report
@@ -38,7 +38,7 @@ Through the completion of this project, I gained valuable insights and developed
 This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.
 
 **Report Links**  
-[Customer Performance Report](https://github.com/PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel/blob/main/AtliQ%20Customer%20Performance%20Report.pdfurl)  
+[Customer Performance Report](https://github.com/PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)  
 [Market Performance and Sales Targets Comparison Report](url)  
 [Profit and Loss (P&L) Reports by Fiscal Year and Months](url)  
 [Profit and Loss (P&L) Reports by Markets](url)  
