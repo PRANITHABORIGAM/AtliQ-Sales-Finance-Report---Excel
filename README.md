@@ -1,5 +1,5 @@
 # AtliQ-Sales-Finance-Report-Excel
-# AtliQ-Reports
+
 # Project Objectives
 This project is focused on achieving the following key objectives:
 
@@ -17,11 +17,11 @@ Generate Profit and Loss reports categorized by fiscal year and months to evalua
 # Profit and Loss (P&L) Reports by Markets:
 
 Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
-# Lessons Learned
+## Lessons Learned
 Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
 
-# Technical Skills
-# Data Analysis Techniques: Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
+## Technical Skills
+Data Analysis Techniques: Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
 Power Query: Demonstrated proficiency in generating a date table and deriving fiscal months and quarters.
 Power Pivot: Established data model relationships and incorporated supplementary data effectively.
 DAX (Data Analysis Expressions): Used DAX to create calculated columns for advanced analytics.
