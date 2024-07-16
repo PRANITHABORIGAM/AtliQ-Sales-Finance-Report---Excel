@@ -1,10 +1,10 @@
 # AtliQ-Sales-Finance-Report-Excel
-#AtliQ-Reports
-#Project Objectives
+# AtliQ-Reports
+# Project Objectives
 This project is focused on achieving the following key objectives:
 
-##Sales Report
-#Customer Performance Report:
+## Sales Report
+# Customer Performance Report:
 
 Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
 Market Performance and Sales Targets Comparison:
