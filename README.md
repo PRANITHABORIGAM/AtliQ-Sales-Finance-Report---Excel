@@ -38,7 +38,7 @@ Through the completion of this project, I gained valuable insights and developed
 This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.
 
 **Report Links**  
-[Customer Performance Report](AtliQ-Sales-Finance-Report---Excel/AtliQ Market Performance Report.pdf at main · PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel (github.com))
+[Customer Performance Report  ](AtliQ-Sales-Finance-Report---Excel/AtliQ Market Performance Report.pdf at main · PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel (github.com))
 [Market Performance and Sales Targets Comparison Report](AtliQ-Sales-Finance-Report---Excel/AtliQ Market Performance Report.pdf at main · PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel (github.com))  
 [Profit and Loss (P&L) Reports by Fiscal Year and Months](AtliQ-Sales-Finance-Report---Excel/AtliQ P&L Statement by Months.pdf at main · PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel (github.com))
 [Profit and Loss (P&L) Reports by Markets](AtliQ-Sales-Finance-Report---Excel/AtliQ P&L Statement by Markets.pdf at main · PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel (github.com))
