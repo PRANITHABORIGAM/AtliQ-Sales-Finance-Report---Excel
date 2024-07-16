@@ -39,6 +39,6 @@ This project not only allowed me to apply my technical skills but also provided 
 
 **Report Links**  
 [Customer Performance Report](https://github.com/PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)  
-[Market Performance and Sales Targets Comparison Report](url)  
-[Profit and Loss (P&L) Reports by Fiscal Year and Months](url)  
-[Profit and Loss (P&L) Reports by Markets](url)  
+[Market Performance and Sales Targets Comparison Report](AtliQ-Sales-Finance-Report---Excel/AtliQ Market Performance Report.pdf at main · PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel (github.com))  
+[Profit and Loss (P&L) Reports by Fiscal Year and Months](AtliQ-Sales-Finance-Report---Excel/AtliQ P&L Statement by Markets.pdf at main · PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel (github.com))  
+[Profit and Loss (P&L) Reports by Markets](https://github.com/PRANITHABORIGAM/AtliQ-Sales-Finance-Report---Excel/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)  
